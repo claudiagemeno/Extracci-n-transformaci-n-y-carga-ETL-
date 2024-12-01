@@ -1,11 +1,3 @@
-
--- Olivia Ares
--- Lucia Poyan
--- Claudia Gemeno
-
-USE user066
-
-
 -- PARTE 2. TRANSFORMACIÓN
 
 -- 1. Métricas de calidad

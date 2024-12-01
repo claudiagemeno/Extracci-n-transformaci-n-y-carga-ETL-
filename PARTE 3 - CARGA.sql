@@ -1,10 +1,3 @@
-
--- Olivia Ares
--- Lucia Poyan
--- Claudia Gemeno
-
-USE user066
-
 -- PARTE 3. CARGA
  
 -- 1. Verificamos la calidad de los datos transformados
